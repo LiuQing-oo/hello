@@ -6,6 +6,7 @@ public class HelloWorld {
 		//nihaoshijie
 System.out.println("HelloWorld");
 System.out.println("dev");
+System.out.println("git中第一次添加");		
 	}
 
 }
